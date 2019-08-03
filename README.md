@@ -15,3 +15,7 @@
     - Stuff like that
 
 - Done Part 1!
+
+----------------------------------------------------------------------------------------------------------
+
+- Part 2 (also playing with branching and merging for Github)
